@@ -3,12 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to TTP2's documentation!
-================================
+Руководство по тактике, методам и процедурам
+============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   intro
+   basic_rifleman
+   utg_platoon
+   attachments
+   communication
+   leadership
+   battle_drills
+   tactics
+   combined_arms
+   veh_usage
+   final
 
 
 
